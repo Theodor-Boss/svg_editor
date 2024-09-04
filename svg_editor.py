@@ -148,8 +148,8 @@ class SVGEditorApp:
         self.y_max = None  # Store the maximum y value for flipping coordinates
 
         # Load the SVG file and populate the curves
-        # self.load_svg("fish_image.svg")
         print("dont_give_up_on_your.svg")
+        self.load_svg("fish_image.svg")
         # self.load_svg("dont_give_up_on_your.svg")
         
 
